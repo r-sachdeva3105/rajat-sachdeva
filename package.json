@@ -1,0 +1,15 @@
+{
+  "name": "rajat-sachdeva",
+  "version": "1.0.0",
+  "description": "Introduction node package by Rajat Sachdeva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rajat-sachdeva": "index.js"
+  },
+  "keywords": [],
+  "author": "Rajat Sachdeva",
+  "license": "ISC"
+}
